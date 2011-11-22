@@ -1,12 +1,12 @@
 /*
-jQuery CSS3 Border Plugin
+jQuery Image Corner Plugin
 Vivek
 vivekv@vivekv.com
 http://www.vivekv.com
 */
 
 (function($){
-     $.fn.border = function (options) {
+     $.fn.corner = function (options) {
 
 	var defaults = {
 		radius : '1em 4em 1em 4em'
