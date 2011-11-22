@@ -1,7 +1,7 @@
 jQuery Image Border Plugin v0.1
 ---------------------------------
 
-The purpose of this plugin is to create a CSS3 border for the images.
+The purpose of this plugin is to create a CSS3 curved border for the images.
 This can easily be done using CSS3 coding but there are some situations where it will be great using a jQuery plugin for selected images and apply
 this border dynamically.
 
