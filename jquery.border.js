@@ -1,7 +1,8 @@
 /*
 jQuery CSS3 Border Plugin
 Vivek
-getvivekv@gmail.com
+vivekv@vivekv.com
+http://www.vivekv.com
 */
 
 (function($){
